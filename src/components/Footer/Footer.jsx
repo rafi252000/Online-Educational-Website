@@ -87,7 +87,6 @@ const Footer = () => {
             </div>
           </Col>
 
-      
           <Col lg="4" md="6" className="mb-4">
             <h6 className="fw-bold">Information</h6>
             <ListGroup className="link__list">
@@ -104,7 +103,7 @@ const Footer = () => {
             <h6 className="fw-bold">Get in Touch</h6>
 
             <p>Address: Chittagong, Bangladesh</p>
-            <p> Phone: +88 01816905401 </p>
+            <p> Phone: +88 01851421536 </p>
             <p>Email: Sumi@gmail.com</p>
           </Col>
         </Row>

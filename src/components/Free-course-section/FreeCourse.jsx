@@ -27,7 +27,7 @@ const freeCourseData = [
 
   {
     id: "03",
-    title: "Job Preparation",
+    title: "Job preparation",
     imgUrl: courseImg03,
     students: 5.3,
     rating: 1.7,
