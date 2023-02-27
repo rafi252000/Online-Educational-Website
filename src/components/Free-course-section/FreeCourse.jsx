@@ -12,7 +12,7 @@ import "./free-course.css";
 const freeCourseData = [
   {
     id: "01",
-    title: "Basic Web Development Course",
+    title: "Basic Mearn Stack Course",
     imgUrl: courseImg01,
     students: 5.3,
     rating: 1.7,
@@ -27,7 +27,7 @@ const freeCourseData = [
 
   {
     id: "03",
-    title: "Search Engine Optimization - Basic",
+    title: "Job Preparation",
     imgUrl: courseImg03,
     students: 5.3,
     rating: 1.7,
